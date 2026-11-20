@@ -2,21 +2,21 @@
 # Getting Started with the Blazor Breadcrumb Component
 
 **Repository Description**  
-This repository contains a quick‑start Blazor WebAssembly sample that demonstrates how to use the Syncfusion Blazor Breadcrumb component to provide intuitive, hierarchical navigation in web applications.
+This repository contains a quick-start Blazor WebAssembly (Standalone) sample that demonstrates how to use the Syncfusion Blazor Breadcrumb component to provide intuitive, hierarchical navigation in web applications.
 
 The [Blazor Breadcrumb](https://www.syncfusion.com/blazor-components/blazor-breadcrumb?utm_source=github&utm_medium=listing&utm_campaign=blazor-breadcrumb-github-samples) is a graphical user interface component that serves as a navigation header for your web application or site. This project contains example code to configure common features such as adding items, icons, navigation, menu modes, hidden modes, and custom templates.
 
 ## Project Overview
-This project helps developers get started with the Syncfusion Blazor Breadcrumb component in a Blazor WebAssembly application. It demonstrates how breadcrumb items can be dynamically generated, customized, and rendered to improve navigation clarity and user experience.
+This project helps developers get started with the Syncfusion Blazor Breadcrumb component in a standalone Blazor WebAssembly application, matching the structure in the Syncfusion getting-started guidance. It demonstrates how breadcrumb items can be dynamically generated, customized, and rendered to improve navigation clarity and user experience.
 
 ## Prerequisites
 - Visual Studio 2022  
 
 ## Installation and Running the Project
 1. Clone this project to a local directory.
-2. Open the solution file using Visual Studio 2022.
+2. Open `GettingStarted.sln` using Visual Studio 2022.
 3. Restore NuGet packages by rebuilding the solution.
-4. Build and run the project to view the Breadcrumb output.
+4. Set **GettingStarted** as the startup project, then build and run to view the Breadcrumb output.
 
 ## Features and Benefits
 
