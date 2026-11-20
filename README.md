@@ -10,11 +10,11 @@ The [Blazor Breadcrumb](https://www.syncfusion.com/blazor-components/blazor-brea
 This project helps developers get started with the Syncfusion Blazor Breadcrumb component in a Blazor WebAssembly application. It demonstrates how breadcrumb items can be dynamically generated, customized, and rendered to improve navigation clarity and user experience.
 
 ## Prerequisites
-- Visual Studio 2022  
+- Visual Studio 2022 17.14+ / .NET 10 SDK  
 
 ## Installation and Running the Project
 1. Clone this project to a local directory.
-2. Open the solution file using Visual Studio 2022.
+2. Open the solution file using Visual Studio 2022 17.14+ / .NET 10 SDK.
 3. Restore NuGet packages by rebuilding the solution.
 4. Build and run the project to view the Breadcrumb output.
 
